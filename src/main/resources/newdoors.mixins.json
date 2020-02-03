@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "com.lungovski19.newdoors.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+  ],
+  "client": [
+    "MixinDoorBlock"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
